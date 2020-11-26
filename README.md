@@ -1,4 +1,4 @@
-<h2 align="center"> TMail - TTemporary Mail Avi</h2>
+<h2 align="center"> TTMail - The Temporary Mail</h2>
 <p align="center"> Its a Temp Mail Website Service Started Soon !</p>
 
 <br>
